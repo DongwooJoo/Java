@@ -10,8 +10,10 @@
         <module name="ch.23" />
         <module name="ch.22" />
         <module name="ch.21" />
-        <module name="example" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
