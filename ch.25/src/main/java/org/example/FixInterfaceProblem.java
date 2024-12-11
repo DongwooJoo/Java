@@ -1,6 +1,6 @@
-package example;
+package org.example;
 
-public class Main {
+public class FixInterfaceProblem {
 
     public static void main(String[] args) {
 

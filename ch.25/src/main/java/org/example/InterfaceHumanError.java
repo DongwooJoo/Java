@@ -1,6 +1,6 @@
-package interfacehumanerror;
+package org.example;
 
-public class Main {
+public class InterfaceHumanError {
 
     public static void main(String[] args) {
         who(Person.MAN);
